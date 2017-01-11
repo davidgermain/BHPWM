@@ -1,9 +1,9 @@
  /* General classes for page */
 
 body {
-  /*background-image: url("../images/grid.jpg");*/
+  background-image: url("../images/grid.jpg");
   /*background-color: rgb(215,245,248);*/
-  background-color: #d5e6e9
+  /*background-color: #d5e6e9*/
   font-family: 'Open Sans';
 }
 
